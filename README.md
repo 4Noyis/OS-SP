@@ -1,5 +1,4 @@
-# OS-SP
-## Operating Systems & System Programming
+# Operating Systems & System Programming
 
 - İşletim Sistemi Yapıları 
 - Sistem Çağrıları
